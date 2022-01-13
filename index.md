@@ -2,7 +2,7 @@ Hello!
 This is *Mijia*, a second-year student majoring in *Bioinformatics* at **UCSD:)**
 
 [Link](https://docs.google.com/document/d/1hsDxmMN7lChvoSiO1zdqHyTeSPqog7Jjg_Cg_jtOUSo/edit#)
-![Image](file:///Users/mijia/Downloads/HWLATEX/colors.png)
+![Image](https://www.pngegg.com/en/png-ztczq)
 
 #About Me
   1. Interest
