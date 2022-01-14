@@ -38,6 +38,7 @@ I found it using the link below.\
 [Click me for course-specific account👈](https://sdacs.ucsd.edu/~icc/index.php)
 
 After finding your specific account, please open a terminal on VScode. I usually go to the top of the screen `Terminal` and choose `New Terminal`
+
 ![image](Part2.2.png)
 
 Then put
@@ -86,7 +87,7 @@ You could also use the contents.
 
 * Step 2 Run `java` and `javac` on my computer
 
-![image](part5.1.png)
+![image](part5.1.png)\
 You probably saw something similar to my output.
 
 * Step 3 Run the below commands\
@@ -97,7 +98,7 @@ You probably saw something similar to my output.
 `java` and `javac` -run the code on `ieng6` computer
 
 
-![image](part5.3.png)
+![image](part5.3.png)\
 This is the output I got in my terminal.\
 Try it now! You may get the similar out put as me.
 
@@ -112,6 +113,7 @@ Luckily, there is a way for us to solve this problem- `ssh` keys!
 * Step 1: Put `ssh-keygen`\
 I logged out first from last part because we need to run the code on our computer first.
 ![image](part6.1.png)
+
 -After these steps, you can see I have two new files, one private(`id_rsa`) and one public(`id_rsa.pub`). \
 -Maybe it would be helpful for you to put something like `/Users/mijia/.ssh/id_rsa` as the file name the terminal asks. (I failed a lot of times when I created my own style file name🤪)
 
