@@ -22,3 +22,5 @@ print 'hi java'
 'Incline code' with backticks
 
 CSE15L Lab 2 is Interesting
+
+[LAB 1 Week 2 Report](https://m1ma0314.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
