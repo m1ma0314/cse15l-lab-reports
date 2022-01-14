@@ -8,7 +8,7 @@ ___
 
 ## 💡Part 1: Installing VScode
 -you can skip this part if you have already installed:)
-[Part 2](#Part-2:-Remotely-Connecting)
+[Part 2](#part-2:-remotely-connecting)
 
 
 -Where you should go for installing\
