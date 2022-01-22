@@ -127,6 +127,21 @@ Congratulations!!!🥳 Now you are all set.
 In this part, my group discussed several ways that can make the process of making a local edit to `WhereAmI.java` more pleasant.
 
 -We can use the up arrow key to use previous commands.\
+For example, I tried  
+`scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` twice.
+
+![image](Part7.1.png)
+
+![image](Part7.1.2.jpeg)
+👆This is the time I spent when I typed each letter myself
+
+![image](Part7.1.1.jpeg)
+👆This is the time I spent when I useds up arrow key ⬆️ to use previous command.
+
+
+(👀Notice the difference?)
+
+### Also
 -We can type faster so the terminal would not ask us to put in our password another time.\
 -We can use semicolons to run multiple commands on the same line in most terminals.
 
