@@ -133,9 +133,11 @@ For example, I tried
 ![image](Part7.1.png)
 
 ![image](Part7.1.2.jpeg)
+
 👆This is the time I spent when I typed each letter myself
 
 ![image](Part7.1.1.jpeg)
+
 👆This is the time I spent when I useds up arrow key ⬆️ to use previous command.
 
 
