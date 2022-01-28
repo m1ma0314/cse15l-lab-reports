@@ -37,7 +37,7 @@
 [failure-inducing input test file](https://github.com/m1ma0314/markdown-parse/blob/main/test3-file.md) \
 👆(click me for more information)
 
-❌ symptom of that failure-inducing input
+❌ Symptom of that failure-inducing input
 
 ![image](Symptom2.png)
 
