@@ -25,5 +25,5 @@ CSE15L Lab 2 is Interesting
 <<<<<<< HEAD
 =======
 
-[LAB Report 1](https://m1ma0314.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-[LAB Report 2]()
+[LAB Report 1](https://m1ma0314.github.io/cse15l-lab-reports/lab-report-1-week-2.html)\
+[LAB Report 2](https://m1ma0314.github.io/cse15l-lab-reports/cse15l-lab-report-2-week-4.html)
