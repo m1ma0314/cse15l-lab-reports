@@ -53,4 +53,9 @@ Unfortunately, both my implementation of `markdown-parse` and the implementation
 `For this one, I also think the code change would be larger than 10 lines. Because my current error output is out of bounds. There should be something wrong with my index checking part. And I have to make sure that my code would work to trim all the blank spaces and delete the unuseful part we want. `
 
 
+---
+## End of Lab Report 4
+That's all. Hope I get everything expected. Thank you for your time! 😇
+
+
 
