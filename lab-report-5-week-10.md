@@ -45,7 +45,7 @@ The reason I think is that there is no check for space or characters between `]`
 
 ### Difference #2: `test-files/496.md\`
 - Test file contents:
-![image](Lab5Part2Test2.png)
+![image](Lab5Part2Test2.png)\
 -My output: `[foo(and(bar]`\
 -Joe's output: `[]`\
 -Expected output:
