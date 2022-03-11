@@ -30,8 +30,8 @@ Then I use `vim` to figure out the corresponding test files which have these dif
 ---
 ## 🛠️ Part 2: Find and Address the Problem
 ### Difference #1: `test-files/201.md\`
-- Test file contents:
-![image](Lab5Part2Test1.png)
+- Test file contents:\
+![image](Lab5Part2Test1.png)\
 -My output: `[]`\
 -Joe's output: `[baz]`\
 -Expected output(Screenshot of [CommonMark demo site](https://spec.commonmark.org/dingus/)):
