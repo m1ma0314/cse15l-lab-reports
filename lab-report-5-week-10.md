@@ -17,15 +17,15 @@ As shown in the picture, there is another difference between line884 of my test 
 Then I use `vim` to figure out the corresponding test files which have these differences. I enter `:set number` to better find the specific lines. 
 
 - The first test file with difference is test file `201.md`
-![image](Lab5Part1Test1.png)
+![image](Lab5Part1Test1.png)\
 -Figure: Output for `my-mdparse-week9\results.txt`
-![image](Lab5Part1Test1J.png)
+![image](Lab5Part1Test1J.png)\
 -Figure: Output for `joes-mdparse-week9/results.txt`
 
 - The second test file with difference is test file `496.md`
-![image](Lab5Part1Test2.png)
+![image](Lab5Part1Test2.png)\
 -Figure: Output for `my-mdparse-week9\results.txt`
-![image](Lab5Part1Test2J.png)
+![image](Lab5Part1Test2J.png)\
 -Figure: Output for `joes-mdparse-week9/results.txt`
 ---
 ## 🛠️ Part 2: Find and Address the Problem
