@@ -44,7 +44,7 @@ As the screenshot of the expected output shown, the content in test file `201.md
 The reason I think is that there is no check for space or characters between `]` and `(` at lines 75-76. We could add a condition to check if the first `(` index and the last `]` only has a difference of 1.
 
 ### Difference #2: `test-files/496.md\`
-- Test file contents:
+- Test file contents:\
 ![image](Lab5Part2Test2.png)\
 -My output: `[foo(and(bar]`\
 -Joe's output: `[]`\
